@@ -1,5 +1,5 @@
-# Experiment-no-6-DC-Motor-Speed-Control-Using-Arduino
-#  DATE:05-04-2024 
+# Exp-6-DC-Motor-Speed-Control-Using-Arduino
+#  DATE:08-04-2024 
 #  NAME: M DINESH KUMAR
 #  ROLL NO :212221220011
 #  DEPARTMENT:INFORMATION TECHNOLOGY
